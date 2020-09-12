@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "FastAI book",
-            "content": "chapter3: | feedbackloops: explor/exploit in ml :-? | baselines: nice idea | funny ipy widgets . | My idea: nlp which convert meanings to better sentences that means it if i write some bulshit it converts it to a better sentence . | . chapter4: | negative log likelihood o softmax o crossentropy ... | . chapter5: . didnt attend | . | chapter6: . lr_find | fit_one_cycle vs fit | | . |",
+            "content": "chapter1: Enlitic company? | The basic idea is to teach the whole game. | must read | Most of the time, however, picking an architecture isn&#39;t a very important part of the deep learning process. It&#39;s something that academics love to talk about, but in practice it is unlikely to be something you need to spend much time on. | | . | chapter2: . | chapter3: . | feedbackloops: explor/exploit in ml :-? | baselines: nice idea | funny ipy widgets . | My idea: nlp which convert meanings to better sentences that means it if i write some bulshit it converts it to a better sentence . | . chapter4: | negative log likelihood o softmax o crossentropy ... | . chapter5: . didnt attend | . | chapter6: . lr_find | fit_one_cycle vs fit | | . | chapter7: . in embedin neurals we are using sgd on inputs not weights? wtf | . | chapter8: . paper: uda data augmentation | paper: what you never wanted to know about floating point .... | numbers near 0 are good | class: activaitonstats for monitoring :-? | | . |",
             "url": "https://hosseinkhani.github.io/NotAnIdealist/ai/2020/09/02/myFastAiNotebook.html",
             "relUrl": "/ai/2020/09/02/myFastAiNotebook.html",
             "date": " • Sep 2, 2020"
